@@ -19,8 +19,6 @@ Here, [number of page frames] is the number of frames in the memory.
 To use preferably- 
 Open on vscode and open the project after you have downloaded my submission. Then on the terminal run the the prompt python3 paging.py [number of page frames]
 
-If using the command does not work on windows terminal- 
-python3 C:\Users\(%USERNAME%)\Downloads\CSC3002F_OS1_NDXSHI026\paging.py [number of page frames]
 
 If all else fails the issue could be that it is the wrong version of python so use python instead of python3
 
