@@ -1,5 +1,3 @@
-#Shivaskar Naidoo 
-
 from random import seed
 from random import randint
 import sys
