@@ -1,6 +1,5 @@
 #NDXSHI026
 #Shivaskar Naidoo 
-#OS1 Assignment 
 
 from random import seed
 from random import randint
