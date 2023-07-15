@@ -1,4 +1,3 @@
-#NDXSHI026
 #Shivaskar Naidoo 
 
 from random import seed
